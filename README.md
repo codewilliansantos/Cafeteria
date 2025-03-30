@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/55fc4929-d41c-48ed-bdda-8c3d49c5bc88)
 
 Cafeteria
+
 Este é um projeto simples de uma aplicação para uma cafeteria, utilizando HTML, CSS e JavaScript.
 
 🚀 Tecnologias Utilizadas
